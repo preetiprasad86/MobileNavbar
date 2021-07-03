@@ -1,0 +1,18 @@
+.group-214 {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  min-width: 256px;
+  position: relative;
+}
+.group-215 {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000029;
+  display: flex;
+  flex-direction: column;
+  min-height: 383px;
+  padding: 15px 22px;
+  position: relative;
+  width: 377px;
+}

@@ -1,0 +1,14 @@
+.carbonclose {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  margin-left: 38px;
+  mix-blend-mode: normal;
+  padding: 0 10px;
+  width: 40px;
+}
+.vector-1 {
+  height: 20px;
+  mix-blend-mode: normal;
+  width: 20px;
+}

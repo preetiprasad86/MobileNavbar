@@ -1,0 +1,15 @@
+:root {
+  --black: #272727;
+  --white: #ffffff;
+
+  --font-size-m2: 14px;
+
+  --font-family-overpass: "Overpass", Helvetica;
+}
+.typography-body-smalltext-14-regular {
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
